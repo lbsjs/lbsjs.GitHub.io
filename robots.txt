@@ -1,2 +1,0 @@
-User-agent: *
-Sitemap: https://lbsjs.github.io/sitemap.xml
